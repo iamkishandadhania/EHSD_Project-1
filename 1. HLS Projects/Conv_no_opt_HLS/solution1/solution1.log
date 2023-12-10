@@ -1,0 +1,92 @@
+==============================================================
+File generated on Wed Dec 06 12:21:22 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 12:22:00 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 12:22:35 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 12:23:41 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-10] Setting target device to 'xczu3eg-sbva484-1-i'
+INFO: [SCHED 204-61] Option 'relax_ii_for_timing' is enabled, will increase II to preserve clock frequency constraints.
+INFO: [HLS 200-10] Analyzing design file 'Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp' ... 
+ERROR: [HLS 200-70] Compilation errors found: In file included from Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:1:
+Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:3:11: error: use of undeclared identifier 'hls'
+void Conv(hls::stream<axis_data> &data_in, hls::stream<axis_data> &data_out) {
+          ^
+Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:3:6: error: variable has incomplete type 'void'
+void Conv(hls::stream<axis_data> &data_in, hls::stream<axis_data> &data_out) {
+     ^
+Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:3:23: error: use of undeclared identifier 'axis_data'
+void Conv(hls::stream<axis_data> &data_in, hls::stream<axis_data> &data_out) {
+                      ^
+Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:3:35: error: use of undeclared identifier 'data_in'
+void Conv(hls::stream<axis_data> &data_in, hls::stream<axis_data> &data_out) {
+                                  ^
+Conv_no_opt_HLS/.apc/.src/Conv_no_opt.cpp:3:77: error: expected ';' after top level declarator
+void Conv(hls::stream<axis_data> &data_in, hls::stream<axis_data> &data_out) {
+                                                                            ^
+                                                                            ;
+5 errors generated.
+==============================================================
+File generated on Wed Dec 06 12:28:22 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 12:37:07 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 13:25:12 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 13:25:40 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 13:43:22 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================
+==============================================================
+File generated on Wed Dec 06 13:44:26 CET 2023
+Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2018.3.1 (64-bit)
+SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+==============================================================

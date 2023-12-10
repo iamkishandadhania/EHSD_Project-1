@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.3.1 (64-bit)
+# SW Build 2489853 on Tue Mar 26 04:18:30 MDT 2019
+# IP Build 2486929 on Tue Mar 26 06:44:21 MDT 2019
+# Start of session at: Wed Dec  6 13:44:28 2023
+# Process ID: 7519
+# Current directory: /home/kida925e/Final_submission/Conv_no_opt_HLS/solution1/impl/ip
+# Command line: vivado -notrace -mode batch -source run_ippack.tcl
+# Log file: /home/kida925e/Final_submission/Conv_no_opt_HLS/solution1/impl/ip/vivado.log
+# Journal file: /home/kida925e/Final_submission/Conv_no_opt_HLS/solution1/impl/ip/vivado.jou
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+create_project: Time (s): cpu = 00:00:01 ; elapsed = 00:00:19 . Memory (MB): peak = 1335.430 ; gain = 0.023 ; free physical = 109 ; free virtual = 3124
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/nfs/ehsd24/Xilinx/Vivado/2018.3/data/ip'.
+WARNING: [IP_Flow 19-4832] The IP name 'Conv_ap_dadd_3_full_dsp_64' you have specified is long. The Windows operating system has path length limitations. It is recommended you use shorter names to reduce the likelihood of issues.
+create_ip: Time (s): cpu = 00:00:02 ; elapsed = 00:00:26 . Memory (MB): peak = 1387.207 ; gain = 51.777 ; free physical = 115 ; free virtual = 3065
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Conv_ap_dadd_3_full_dsp_64'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Conv_ap_dadd_3_full_dsp_64'...
+INFO: [IP_Flow 19-1686] Generating 'Synthesis' target for IP 'Conv_ap_dmul_3_max_dsp_64'...
+INFO: [IP_Flow 19-1686] Generating 'Simulation' target for IP 'Conv_ap_dmul_3_max_dsp_64'...
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/nfs/ehsd24/Xilinx/Vivado/2018.3/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Wed Dec  6 13:46:02 2023...
