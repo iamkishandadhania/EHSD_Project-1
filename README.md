@@ -5,6 +5,7 @@ The python script is common for both just need to change the bit file name.
 
 
 Submitted by, 
-Kishan Dadhania.
+
+Kishan Dadhania
 
 Matriculation Number - 5112720
